@@ -73,6 +73,7 @@ brew "tilt"
 brew "tmux"
 brew "wifi-password"
 brew "xcodegen"
+brew "xdg-ninja", args: ["HEAD"]
 brew "yarn"
 brew "zsh"
 brew "zsh-async"
