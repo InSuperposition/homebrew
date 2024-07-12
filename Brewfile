@@ -72,6 +72,7 @@ brew "tektoncd-cli"
 brew "tilt"
 brew "tmux"
 brew "wifi-password"
+brew "wireshark"
 brew "xcodegen"
 brew "xdg-ninja", args: ["HEAD"]
 brew "yarn"
