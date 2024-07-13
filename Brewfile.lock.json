@@ -11,16 +11,16 @@
         "revision": "83a15b1d72f2612249b8484d69106190abdd2714"
       },
       "homebrew/bundle": {
-        "revision": "0e8e000753e19b5422efb94a688abfd62c908fcb"
+        "revision": "2a703dc8d9af9b0368f6cc5ab3ecfaf3ed683398"
       },
       "homebrew/services": {
-        "revision": "a4aabffc344b7e9476f95fd66bd59b123e89ed98"
+        "revision": "7e2082e3e95fc4180d2f1e2e90a64d646f21d548"
       },
       "openshift-pipelines/pipelines-as-code": {
         "revision": "9b691db39b9a84a13e28fb6ec188775c250e9606"
       },
       "oven-sh/bun": {
-        "revision": "7b62d4e9c193e50be8bf36f139c7469f4842a2a5"
+        "revision": "c9bf4064864f98baef6e8b04716d8b2c08d99faf"
       },
       "romkatv/powerlevel10k": {
         "revision": "49424b1d1e03109c4303bbf364b0ccbde407e028"
@@ -2636,7 +2636,7 @@
         "bottle": false
       },
       "oven-sh/bun/bun": {
-        "version": "1.1.18",
+        "version": "1.1.20",
         "bottle": false
       },
       "sigstore/tap/gitsign": {
@@ -2828,45 +2828,45 @@
         }
       },
       "kubevpn": {
-        "version": "2.2.13",
+        "version": "2.2.14",
         "bottle": {
           "rebuild": 0,
           "root_url": "https://ghcr.io/v2/homebrew/core",
           "files": {
             "arm64_sonoma": {
               "cellar": ":any_skip_relocation",
-              "url": "https://ghcr.io/v2/homebrew/core/kubevpn/blobs/sha256:0842067e972a76bbc9bf15162e6c427bb98eb1f4337d1e33f38a7936126b0d25",
-              "sha256": "0842067e972a76bbc9bf15162e6c427bb98eb1f4337d1e33f38a7936126b0d25"
+              "url": "https://ghcr.io/v2/homebrew/core/kubevpn/blobs/sha256:f0e591dad4b395a19ef0440c893186c64c5c58df201adec2d2f1342a21f0b0b5",
+              "sha256": "f0e591dad4b395a19ef0440c893186c64c5c58df201adec2d2f1342a21f0b0b5"
             },
             "arm64_ventura": {
               "cellar": ":any_skip_relocation",
-              "url": "https://ghcr.io/v2/homebrew/core/kubevpn/blobs/sha256:8a6593d839e7f10489170c44b4ca4032d13663c5b505f4b68b5c5e211de73c42",
-              "sha256": "8a6593d839e7f10489170c44b4ca4032d13663c5b505f4b68b5c5e211de73c42"
+              "url": "https://ghcr.io/v2/homebrew/core/kubevpn/blobs/sha256:4bbc57364509523615cead534d6b9c798bfefbf21ea7f7cff0a34348a014b24b",
+              "sha256": "4bbc57364509523615cead534d6b9c798bfefbf21ea7f7cff0a34348a014b24b"
             },
             "arm64_monterey": {
               "cellar": ":any_skip_relocation",
-              "url": "https://ghcr.io/v2/homebrew/core/kubevpn/blobs/sha256:a9c47b9e89c24a97c11ce49c7546286f82e0c27e8d8405cd462c25b91b4eef5e",
-              "sha256": "a9c47b9e89c24a97c11ce49c7546286f82e0c27e8d8405cd462c25b91b4eef5e"
+              "url": "https://ghcr.io/v2/homebrew/core/kubevpn/blobs/sha256:fc28683039599ddea184b24ec950cc927032bfb030f476b8baffa846b0d0ead4",
+              "sha256": "fc28683039599ddea184b24ec950cc927032bfb030f476b8baffa846b0d0ead4"
             },
             "sonoma": {
               "cellar": ":any_skip_relocation",
-              "url": "https://ghcr.io/v2/homebrew/core/kubevpn/blobs/sha256:eaa94b31c97bc457f98c76bd4ad9468eba960f356610ae19477b86c05f60da00",
-              "sha256": "eaa94b31c97bc457f98c76bd4ad9468eba960f356610ae19477b86c05f60da00"
+              "url": "https://ghcr.io/v2/homebrew/core/kubevpn/blobs/sha256:a6685896e31277bc075854fdab8a1d24f1b5f6733502e17f361e70dc9dda7363",
+              "sha256": "a6685896e31277bc075854fdab8a1d24f1b5f6733502e17f361e70dc9dda7363"
             },
             "ventura": {
               "cellar": ":any_skip_relocation",
-              "url": "https://ghcr.io/v2/homebrew/core/kubevpn/blobs/sha256:6df470fbe03744ce24f6721df4e62d3bddc40689a84821c42170d6d04c767084",
-              "sha256": "6df470fbe03744ce24f6721df4e62d3bddc40689a84821c42170d6d04c767084"
+              "url": "https://ghcr.io/v2/homebrew/core/kubevpn/blobs/sha256:21f6e5bb0a9d979e58baf6f5836ed87fbc9249f6ea49a50cce64cf818e2c867c",
+              "sha256": "21f6e5bb0a9d979e58baf6f5836ed87fbc9249f6ea49a50cce64cf818e2c867c"
             },
             "monterey": {
               "cellar": ":any_skip_relocation",
-              "url": "https://ghcr.io/v2/homebrew/core/kubevpn/blobs/sha256:789d474522c05bbb1b551b7563a18ee2dafcc31e590360bb4a8f5b033a04f8e6",
-              "sha256": "789d474522c05bbb1b551b7563a18ee2dafcc31e590360bb4a8f5b033a04f8e6"
+              "url": "https://ghcr.io/v2/homebrew/core/kubevpn/blobs/sha256:b730630b8d331e9fff83f687c786a5a8aff823e8aff58b983af667edeabb1f7c",
+              "sha256": "b730630b8d331e9fff83f687c786a5a8aff823e8aff58b983af667edeabb1f7c"
             },
             "x86_64_linux": {
               "cellar": ":any_skip_relocation",
-              "url": "https://ghcr.io/v2/homebrew/core/kubevpn/blobs/sha256:2112f97ed93ae78257f8e3553528315b53b753a8148e8a921bebbe6cee7d04f9",
-              "sha256": "2112f97ed93ae78257f8e3553528315b53b753a8148e8a921bebbe6cee7d04f9"
+              "url": "https://ghcr.io/v2/homebrew/core/kubevpn/blobs/sha256:07fcf86a905260acb9087482c7b0bcfbfe53fbd40c85503d1e7324179ea6868a",
+              "sha256": "07fcf86a905260acb9087482c7b0bcfbfe53fbd40c85503d1e7324179ea6868a"
             }
           }
         }
@@ -3565,7 +3565,7 @@
       },
       "Pluralsight": {
         "id": "431748264",
-        "version": "3.48"
+        "version": "3.49"
       },
       "Shazam": {
         "id": "897118787",
